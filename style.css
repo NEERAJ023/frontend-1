@@ -9,6 +9,7 @@ header{
     position:sticky;
     top:0px;
     background-color: white;
+    z-index:3;
 }
 @media screen and (max-width: 650px){
     .heroo{
